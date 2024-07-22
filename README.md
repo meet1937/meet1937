@@ -14,14 +14,14 @@
 
 <h2> About Me 👨‍</h2>
  
- 💻 **Software Developer with 2+ year of experience** and **with bechlor's degree in Information Technology** 🎓. My passion for Computer Science drives me to continually learn new technologies and apply them to develop innovative solutions or enhance existing applications.
+ 💻 **Software Developer** with **2+ years** of experience and a **Bachelor's degree in Information Technology** 🎓. My passion for Computer Science drives me to continuously learn new technologies and apply them to develop innovative solutions or enhance existing applications.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--  🔭 I'm currently working as **Backend Web Developer** 🙋‍♂️and improving my **Data Structure** and **Algorithm** skills👨‍💻.
+-  🔭 I'm currently working as a **Backend Web Developer** 🙋‍♂️ and actively improving my Data Structure and Algorithm skills 👨‍💻.
   
 -  🌱 I'm familiar with Java 8, Spring Framework, Spring Boot, Docker, mySQL, Git, Linux⚙️.
 
--   👀 I’m interested in coding and gaming.
+-   👀 I'm interested in both coding and gaming.
   
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/meet-dhami-66b433190/)
