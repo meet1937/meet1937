@@ -22,7 +22,7 @@ using Java 17, Spring Boot, and Kafka.
 
 -  🔭 I'm currently working as a **Backend Web Developer** 🙋‍♂️ and actively improving my Data Structure and Algorithm skills 👨‍💻.
   
--  🌱 I'm familiar with Java 8, Spring Framework, Spring Boot, Docker, mySQL, Git, Linux⚙️.
+-  🌱 I'm familiar with Java, Spring Framework, Spring Boot, AWS, CI/CD, Docker, mySQL, Git, Jenkins, AI, LLM⚙️.
 
 -   👀 I'm interested in both coding and gaming.
   
