@@ -19,11 +19,5 @@ tructure. Expertise in architecting high-availability microservices, payment tok
 using Java 17, Spring Boot, and Kafka.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
--  🔭 I'm currently working as a **Backend Web Developer** 🙋‍♂️ and actively improving my Data Structure and Algorithm skills 👨‍💻.
-  
--  🌱 I'm familiar with Java, Spring Framework, Spring Boot, AWS, CI/CD, Docker, mySQL, Git, Jenkins, AI, LLM⚙️.
-
--   👀 I'm interested in both coding and gaming.
   
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/meet-dhami-66b433190/)
