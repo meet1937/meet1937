@@ -14,7 +14,9 @@
 
 <h2> About Me 👨‍</h2>
  
- 💻 **Software Developer** with **2+ years** of experience and a **Bachelor's degree in Information Technology** 🎓. My passion for Computer Science drives me to continuously learn new technologies and apply them to develop innovative solutions or enhance existing applications.
+ 💻 **Backend Software Engineer with 4+ years of experience specializing in Distributed Systems and Fintech Infras-
+tructure. Expertise in architecting high-availability microservices, payment tokenization, and event-driven architectures
+using Java 17, Spring Boot, and Kafka.
  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
