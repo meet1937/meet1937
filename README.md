@@ -14,7 +14,7 @@
 
 <h2> About Me 👨‍</h2>
  
- 💻 **Backend Software Engineer with 4+ years of experience specializing in Distributed Systems and Fintech Infras-
+ 💻 Backend Software Engineer with 4+ years of experience specializing in Distributed Systems and Fintech Infras-
 tructure. Expertise in architecting high-availability microservices, payment tokenization, and event-driven architectures
 using Java 17, Spring Boot, and Kafka.
  
